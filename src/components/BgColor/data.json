@@ -1,0 +1,26 @@
+[
+  {
+    "value": 1,
+    "label": "blue"
+  },
+  {
+    "value": 2,
+    "label": "red"
+  },
+  {
+    "value": 3,
+    "label": "yellow"
+  },
+  {
+    "value": 4,
+    "label": "green"
+  },
+  {
+    "value": 5,
+    "label": "orange"
+  },
+  {
+    "value": 6,
+    "label": "pink"
+  }
+]
