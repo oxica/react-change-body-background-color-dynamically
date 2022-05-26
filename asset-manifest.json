@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-change-body-background-color-dynamically/static/css/main.7acaea2f.css",
-    "main.js": "/react-change-body-background-color-dynamically/static/js/main.bc46ddd9.js",
+    "main.css": "/react-change-body-background-color-dynamically/static/css/main.1f2b2ae3.css",
+    "main.js": "/react-change-body-background-color-dynamically/static/js/main.b4c03d94.js",
     "index.html": "/react-change-body-background-color-dynamically/index.html",
-    "main.7acaea2f.css.map": "/react-change-body-background-color-dynamically/static/css/main.7acaea2f.css.map",
-    "main.bc46ddd9.js.map": "/react-change-body-background-color-dynamically/static/js/main.bc46ddd9.js.map"
+    "main.1f2b2ae3.css.map": "/react-change-body-background-color-dynamically/static/css/main.1f2b2ae3.css.map",
+    "main.b4c03d94.js.map": "/react-change-body-background-color-dynamically/static/js/main.b4c03d94.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.bc46ddd9.js"
+    "static/css/main.1f2b2ae3.css",
+    "static/js/main.b4c03d94.js"
   ]
 }
