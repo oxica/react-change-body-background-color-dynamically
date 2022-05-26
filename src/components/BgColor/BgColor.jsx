@@ -16,7 +16,7 @@ export default function BgColor({ label }) {
         {bgColors ? (
           <p>The background color is: {bgColors}</p>
         ) : (
-          <p>Сhoose body color</p>
+          <p>Сhoose background color</p>
         )}
       </center>
     </div>
