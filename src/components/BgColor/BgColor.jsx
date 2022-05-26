@@ -13,7 +13,11 @@ export default function BgColor({ label }) {
       <style>{`body {background-color: ${bgColors}};`}</style>
       <Select options={colors} onChange={colorChange}></Select>
       <center>
-        <p>The background color is: {bgColors}</p>
+        {bgColors ? (
+          <p>The background color is: {bgColors}</p>
+        ) : (
+          <p>Сhoose body color</p>
+        )}
       </center>
     </div>
   );
